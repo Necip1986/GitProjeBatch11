@@ -11,6 +11,7 @@ public class BirinciGun {
 		System.out.println("11:05 - local");
 		System.out.println("11:23 - github.com");
 		System.out.println("Ben buradan conflict beklemiyorum..");
+		System.out.println("Local'den yepyeni bir satir");
 
 
 
