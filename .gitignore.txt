@@ -1,4 +1,0 @@
-/.gitproject/
-/.classpath/
-/cls/
-/bin/
